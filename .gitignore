@@ -1,0 +1,12 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Credenciais e Tokens de API
+kaggle.json
+.kaggle/
+
+# Caches e arquivos temporários do Jupyter e VS Code
+.ipynb_checkpoints/
+*.ipynb.layout
+__pycache__/
