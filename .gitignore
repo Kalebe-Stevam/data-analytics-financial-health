@@ -6,6 +6,9 @@ venv/
 kaggle.json
 .kaggle/
 
+# Arquivos CSV
+*.csv
+
 # Caches e arquivos temporários do Jupyter e VS Code
 .ipynb_checkpoints/
 *.ipynb.layout
