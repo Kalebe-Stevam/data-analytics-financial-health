@@ -1,4 +1,4 @@
-# Diagnóstico de Saúde Financeira e Performance Operacional Global
+# Diagnóstico de Saúde Financeira e Performance Operacional
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -6,6 +6,20 @@
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
 
 ---
+## Índice
+
+1. [Contexto e Desafio de Negócio](#1-contexto-e-desafio-de-negócio)
+2. [Dashboard Interativo](#2-dashboard-interativo)
+3. [Objetivos do Projeto](#3-objetivos-do-projeto)
+4. [Tecnologias e Ferramentas Utilizadas](#4-tecnologias-e-ferramentas-utilizadas)
+5. [Estrutura do Repositório](#5-estrutura-do-repositório)
+6. [Pipeline de Engenharia e Tratamento de Dados (ETL)](#6-pipeline-de-engenharia-e-tratamento-de-dados-etl)
+7. [Modelagem e Medidas DAX](#7-modelagem-e-medidas-dax)
+8. [Principais Insights](#8-principais-insights)
+9. [Limitações da Análise](#9-limitações-da-análise)
+10. [Autor](#10-autor)
+---
+
 
 ## 1. Contexto e Desafio de Negócio
 
